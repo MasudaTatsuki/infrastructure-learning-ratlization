@@ -24,6 +24,7 @@
 
 ## 推しサイト
 - [ドリアン](https://derien.jp/about/)
+- [コンニチハレバレトシタアオゾラ](https://oubonarumamay.hatenablog.com/)
 
 ## 認知科学
 - [認知負荷および認知負荷理論 (Cognitive Load Theory) をもう少し正確に理解するための心理学研究・知見の紹介](https://zenn.dev/kangetsu_121/articles/6b31565dda6053)
