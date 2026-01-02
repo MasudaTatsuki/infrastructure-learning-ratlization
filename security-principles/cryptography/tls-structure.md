@@ -1,3 +1,8 @@
+# TLS Protocol Structure
+
+TLSの階層構造とハンドシェイクの全体像。AWS（ALB/CloudFront）やACMの挙動を理解するための基礎知識。
+
+```
 TCP/IP モデル
 └ Transport Layer (TCP)
 　└ SSL/TLS (暗号化プロトコル全体)
@@ -21,3 +26,4 @@ TCP/IP モデル
 　 　 　 　│
 　 　 　 　└── Application Data Protocol (実際のデータ)
 　 　 　 　 　 └── HTTPS (HTTP on TLS) として流れる中身
+```
